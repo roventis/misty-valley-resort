@@ -1,0 +1,13 @@
+{
+  "name": "misty-valley-resort",
+  "version": "1.0.0",
+  "description": "Misty Valley Resort & Events official website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": ""
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
